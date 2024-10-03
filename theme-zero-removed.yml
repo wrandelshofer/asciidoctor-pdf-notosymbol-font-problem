@@ -1,4 +1,4 @@
-extends: default-with-font-fallbacks
+extends: default
 
 base:
   font-family: Arial
