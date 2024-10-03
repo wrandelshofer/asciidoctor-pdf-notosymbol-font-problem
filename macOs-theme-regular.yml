@@ -12,8 +12,8 @@ font:
     Noto Sans Symbols 2:
       normal: NotoSansSymbols2-Regular.ttf
       # normal: NotoSansSymbols2-Regular.ttf
-    segoui:
-     '*' : seguisym.ttf
+#    segoui:
+#     '*' : seguisym.ttf
   fallbacks: 
     - Noto Sans Symbols 2
     # - segoui
