@@ -1,0 +1,19 @@
+extends: default-with-font-fallbacks
+
+base:
+  font-family: Arial
+
+font:
+  catalog:
+    merge: true
+    Arial:
+      normal: arial.ttf
+      bold: arial.ttf
+
+# olist:
+#   marker:
+#     line-height: 1.1
+
+# ulist:
+#   marker:
+#     line-height: 1.1

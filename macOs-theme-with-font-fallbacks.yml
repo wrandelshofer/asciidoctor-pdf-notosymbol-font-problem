@@ -1,0 +1,11 @@
+extends: default-with-font-fallbacks
+
+base:
+  font-family: Arial
+
+font:
+  catalog:
+    merge: true
+    Arial:
+      normal: macOs Arial.ttf
+      bold: macOs Arial Bold.ttf
