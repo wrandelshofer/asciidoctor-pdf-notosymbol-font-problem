@@ -1,0 +1,47 @@
+:pdf-theme: ./theme-regular.yml
+:pdf-fontsdir: ./fonts
+
+==== List items with anchors
+
+List items have vertically shifted markers when
+the theme extends `default-with-font-fallbacks`.
+
+List items have properly placed markers when
+the theme extends `default`.
+
+
+An ordered list:
+
+. [[A1]]First list item
+. [[A2]]Second list item
+.. [[A3]]First Sub Item
+.. [[A4]]Second Sub Item
+... [[A5]]First Sub-Sub Item
+... [[A6]]Second Sub-Sub Item
+
+An unordered list:
+
+* [[B1]]First list item
+* [[B2]]Second list item
+** [[B3]]First Sub Item
+** [[B4]]Second Sub Item
+
+==== List items without anchors
+
+List items without anchors always have properly placed markers.
+
+An ordered list:
+
+. First list item
+. Second list item
+.. First Sub Item
+.. Second Sub Item
+... First Sub-Sub Item
+... Second Sub-Sub Item
+
+An unordered list:
+
+* First list item
+* Second list item
+** First Sub Item
+** Second Sub Item

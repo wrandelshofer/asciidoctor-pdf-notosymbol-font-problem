@@ -1,5 +1,5 @@
-:pdf-theme: ./theme.yml
-:pdf-fontsdir: ./
+:pdf-theme: ./theme-zero-removed.yml
+:pdf-fontsdir: ./fonts
 
 ==== List items with anchors
 
