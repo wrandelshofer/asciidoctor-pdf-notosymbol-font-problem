@@ -7,8 +7,8 @@ font:
   catalog:
     merge: true
     Arial:
-      normal: macOs Arial.ttf
-      bold: macOs Arial Bold.ttf
+      normal: arial.ttf
+      bold: arial.ttf
     Noto Sans Symbols 2:
       normal: NotoSansSymbols2-Regular-zero.ttf
   fallback: 
